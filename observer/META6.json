@@ -1,0 +1,17 @@
+{
+    "raku" : "6.c",
+    "name" : "Observer::Pattern",
+    "api"  : "1",
+    "auth" : "github:uzluisf",
+    "version" : "0.0.1",
+    "description" : "Observer pattern implementation",
+    "authors" : [ "Luis Uceta" ],
+    "license" : "Artistic-2.0",
+    "provides" : {
+        "Observer" : "lib/Observer.rakumod",
+        "Subject" : "lib/Subject.rakumod",
+        "Item" : "lib/Item.rakumod",
+        "Customer" : "lib/Customer.rakumod"
+    },
+    "source-url" : "git://github.com/uzluisf/design-patterns-raku.git"
+}

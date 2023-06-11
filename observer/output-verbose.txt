@@ -1,0 +1,12 @@
+Item: Attached an observer
+Item: Attached an observer
+Item [Nike Shirt] is now in stock
+Item: Notifying all observers...
+Sending email to customer [abc@gmail.com] for item [Nike Shirt]
+Sending email to customer [xyz@hotmail.com] for item [Nike Shirt]
+Item: Detached an observer
+Item: Attached an observer
+Item [Nike Shirt] is now in stock
+Item: Notifying all observers...
+Sending email to customer [abc@gmail.com] for item [Nike Shirt]
+Sending email to customer [def@protomail.com] for item [Nike Shirt]
